@@ -1,0 +1,16 @@
+body{
+    border: solid;
+    padding: 10px;
+    text-align: center;
+    border-left: 40%;
+    border-right: 30%;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+h1{
+    border: solid;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: pink;
+}
